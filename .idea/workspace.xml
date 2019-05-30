@@ -110,7 +110,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/methods/Horner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
+            <state relative-caret-position="595">
               <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
@@ -234,7 +234,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559252171118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559252358615" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../integration/MOnumericintegration" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -360,7 +360,7 @@
       <workItem from="1558867998909" duration="858000" />
       <workItem from="1558871941314" duration="399000" />
       <workItem from="1558903745795" duration="472000" />
-      <workItem from="1559234566056" duration="11752000" />
+      <workItem from="1559234566056" duration="12133000" />
     </task>
     <task id="LOCAL-00001" summary="Reading data from txt file and displaying in textarea">
       <created>1554233548535</created>
@@ -373,7 +373,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73873000" />
+    <option name="totallyTimeSpent" value="74254000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
@@ -534,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/methods/Horner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
+        <state relative-caret-position="595">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
