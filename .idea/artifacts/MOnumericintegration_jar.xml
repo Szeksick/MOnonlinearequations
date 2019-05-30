@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="MOnumericintegration:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MOnumericintegration_jar</output-path>
-    <root id="archive" name="MOnumericintegration.jar">
-      <element id="module-output" name="MOnonlinearequations" />
-    </root>
-  </artifact>
-</component>
